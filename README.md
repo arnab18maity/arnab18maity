@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Arnab Maity</h1>
 <h3 align="center">A Passionate Software Developer and MERN Stack Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab18maity&label=Profile%20views&color=0e75b6&style=flat" alt="debarkac" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab18maity&label=Profile%20views&color=0e75b6&style=flat" alt="arnab18maity" /> </p>
 
 - 🔭 I’m currently working on **Backend Development with Express JS, mongoDB**
 - 💬 Ask me about **HTML, CSS, Javascript, React, C, C++**
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me: &nbsp &nbsp<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width=70></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arnab-maity951/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arnab_Linkedin" height="30" width="40" /></a> &nbsp &nbsp
-<a href="https://instagram.com/a_rnab_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Arnab_Instagram" height="30" width="40" /></a> &nbsp &nbsp
-<a href="https://www.leetcode.com/arnab18maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Arnab_Leetcode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arnab-maity951/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arnab_Linkedin" height="30" width="40" /></a> &nbsp &nbsp
+<a href="https://instagram.com/a_rnab_18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Arnab_Instagram" height="30" width="40" /></a> &nbsp &nbsp
+<a href="https://www.leetcode.com/arnab18maity" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Arnab_Leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: &nbsp &nbsp<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></h3>
